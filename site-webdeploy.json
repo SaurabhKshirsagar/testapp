@@ -1,0 +1,15 @@
+{
+  "token": "1f4631139f7ddec9827cf00e2b2a17fa2256bdff1d314458dedafec37241c0f5",
+  "appid": "builder",
+  "instanceid": "rkux24G4M",
+  "siteid": "Hk3aoBfVM",
+  "bitpodapiURL": "http://localhost:8081/api",
+  "deploypath": "/deploy",
+  "routes": [
+    {
+      "_id": "5a54cbc48eeacf00074f4eab",
+      "value": "/index.html",
+      "key": "*"
+    }
+  ]
+}
