@@ -3,7 +3,7 @@
   "appid": "builder",
   "instanceid": "rkux24G4M",
   "siteid": "Hk3aoBfVM",
-  "bitpodapiURL": "http://localhost:8081/api",
+  "bitpodapiURL": "https://dev.p10.io/api",
   "deploypath": "/deploy",
   "routes": [
     {
