@@ -4,7 +4,7 @@
   "instanceid": "rkux24G4M",
   "siteid": "Hk3aoBfVM",
   "bitpodapiURL": "https://dev.p10.io/api",
-  "deploypath": "/deploy",
+  "deploypath": "/build",
   "routes": [
     {
       "_id": "5a54cbc48eeacf00074f4eab",
