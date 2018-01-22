@@ -1,6 +1,9 @@
 language: node_js
 node_js:
   - "6"
+
+before_install:
+- npm i -g @bitpod/site-webdeploy
 install:
   - yarn install
 script:
