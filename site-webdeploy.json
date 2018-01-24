@@ -7,7 +7,7 @@
   "schemaVersion": "0.1",
   
   "deployPath": "/build",
-  "bitpodapiURL": "https://pd.bitpod.io/api",
+  
   "routes": [
     {
       "key": "*",
