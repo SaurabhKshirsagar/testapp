@@ -12,7 +12,7 @@
   },
   "scripts": {
     "start": "react-scripts start",
-    "build": "set REACT_APP_API_URL='ui/ssdd' && react-scripts build",
+    "build": "set REACT_APP_API_URL=https://app002-ohxyu.pd.bitpod.io/ui/ssdd && react-scripts build",
     "deploy": "site-webdeploy deploy",
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
