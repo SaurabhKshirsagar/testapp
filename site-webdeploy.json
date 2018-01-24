@@ -1,14 +1,13 @@
 {
-  // your deployment token
+  
   "token": "e43a1b826e6ae013a891b4e9b2ef6feace4b450cdab4ee49ddc86f10bc2c3735",
   "appId": "builder",
   "instanceId": "rkux24G4M",
   "siteId": "Hk3aoBfVM",
   "schemaVersion": "0.1",
-  // this should be path containing your built app, e.g. ./dist or ./build
+  
   "deployPath": "/deploy",
-  // base url of bitpod deployment api
-  // "bitpodapiURL": "/api",
+ 
   "routes": [
     {
       "key": "*",
