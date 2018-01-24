@@ -6,8 +6,8 @@
   "siteId": "Hk3aoBfVM",
   "schemaVersion": "0.1",
   
-  "deployPath": "/deploy",
- 
+  "deployPath": "/build",
+  "bitpodapiURL": "https://pd.bitpod.io/api",
   "routes": [
     {
       "key": "*",
