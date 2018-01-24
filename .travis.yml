@@ -1,11 +1,8 @@
 language: node_js
 node_js:
   - "6"
-before_install:
-- yarn global add serve
 install:
   - yarn install
 script:
   - npm run build
-  - npm run serve
   - npm run deploy
