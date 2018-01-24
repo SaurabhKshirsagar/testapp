@@ -8,7 +8,7 @@
   },
   "devDependencies": {
     "react-scripts": "1.0.0",
-    "@bitpod/site-webdeploy": "^0.0.3"
+    "@bitpod/site-webdeploy": "^0.0.4"
   },
   "scripts": {
     "start": "react-scripts start",

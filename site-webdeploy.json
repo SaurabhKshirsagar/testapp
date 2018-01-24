@@ -1,15 +1,19 @@
 {
-  "token": "1f4631139f7ddec9827cf00e2b2a17fa2256bdff1d314458dedafec37241c0f5",
-  "appid": "builder",
-  "instanceid": "rkux24G4M",
-  "siteid": "Hk3aoBfVM",
-  "bitpodapiURL": "https://dev.p10.io/api",
-  "deploypath": "/build",
+  // your deployment token
+  "token": "e43a1b826e6ae013a891b4e9b2ef6feace4b450cdab4ee49ddc86f10bc2c3735",
+  "appId": "builder",
+  "instanceId": "rkux24G4M",
+  "siteId": "Hk3aoBfVM",
+  "schemaVersion": "0.1",
+  // this should be path containing your built app, e.g. ./dist or ./build
+  "deployPath": "/deploy",
+  // base url of bitpod deployment api
+  // "bitpodapiURL": "/api",
   "routes": [
     {
-      "_id": "5a54cbc48eeacf00074f4eab",
+      "key": "*",
       "value": "/index.html",
-      "key": "*"
+      "_id": "5a54cbc48eeacf00074f4eab"
     }
   ]
 }
