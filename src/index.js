@@ -9,6 +9,7 @@ const styles = {
 const App = () => (
   <div style={styles}>
     <h2>Hello bitpod</h2>
+    <h2>bitpod.io</h2>
   </div>
 );
 
